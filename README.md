@@ -193,17 +193,6 @@ The repository includes screenshots of:
 * Implement real-time threat detection.
 * Integrate with other SIEM data sources.
 
----
-
-## Author
-
-**Santhoshi Manaswini J**
-
-Final Year B.Sc. Cyber Security Student
-
-GitHub: *(Add your GitHub profile link here)*
-
-LinkedIn: *(Add your LinkedIn profile link here)*
 
 ---
 
